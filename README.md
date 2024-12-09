@@ -1,5 +1,6 @@
-## Hi there 👋
+## 二号平台网址 👋
 
+<https://erhaozhan.github.io>
 <!--
 **erhaozhan/erhaozhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
